@@ -1,6 +1,6 @@
-# Python_MachineLearni4
-## Assignm#ent 34
-### COVID#
+# Python_MachineLearni
+## Assignment 34
+### COVID
 #### The eight countries with the highest number of covid cases in April of 2020
 ![Screenshot (608)](https://user-images.githubusercontent.com/76522668/163816485-810f152e-ffde-48aa-a35a-de3c6309ea3e.png)
 
